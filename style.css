@@ -5,8 +5,7 @@ body {
     margin: 40px auto; 
     padding: 20px; 
     line-height: 1.6;
-    background-color: #F4F4F4
-    gap: 30px;     
+    /* background-color: #F4F4F4*/  
 }
 
 nav { 
@@ -20,4 +19,4 @@ nav a { text-decoration: none; color: #5490e3; font-weight: bold; }
 .lista-exercicios { list-style: none; padding: 0; }
 .lista-exercicios li { margin: 15px 0; padding: 10px; background: white; border: 1px solid #eee; border-radius: 5px; }
 
-.resolucao { background: rgba(255, 255, 255, 0.8); padding: 30px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+/* .resolucao { background: rgba(255, 255, 255, 0.8); padding: 30px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }*/
