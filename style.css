@@ -1,10 +1,11 @@
 body { 
+    text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
     max-width: 700px; 
     margin: 40px auto; 
     padding: 20px; 
     line-height: 1.6;
-    background-color: #c9c9c9;
+    background-color: #F4F4F4;
 }
 
 nav { 
