@@ -1,0 +1,21 @@
+body { 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    max-width: 700px; 
+    margin: 40px auto; 
+    padding: 20px; 
+    line-height: 1.6;
+    background-color: #c9c9c9;
+}
+
+nav { 
+    margin-bottom: 30px; 
+    padding-bottom: 10px; 
+    border-bottom: 1px solid #ddd; 
+}
+
+nav a { text-decoration: none; color: #007bff; font-weight: bold; }
+
+.lista-exercicios { list-style: none; padding: 0; }
+.lista-exercicios li { margin: 15px 0; padding: 10px; background: white; border: 1px solid #eee; border-radius: 5px; }
+
+.resolucao { background: white; padding: 30px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
